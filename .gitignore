@@ -2,6 +2,12 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=c
 
 ### C ###
+# Preprocessced files
+*.i
+
+# Assembler files
+*.s
+
 # Prerequisites
 *.d
 
